@@ -1,0 +1,14 @@
+cd /percorso/alla/tua/.config # Sostituisci con il percorso effettivo alla tua cartella .config
+git init
+git add .
+git commit -m "Inizializzazione repository .config"
+
+git remote add origin https://github.com/tuo-username/nome-repository.git
+git branch -M main
+git push -u origin main
+
+//aggiornamento e push
+
+git add .
+git commit -m "Descrizione delle modifiche"
+git push
