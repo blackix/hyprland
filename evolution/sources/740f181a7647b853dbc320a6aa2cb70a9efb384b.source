@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=a.saracino@fondazionegolinelli.it
+Enabled=true
+Parent=675e5be5baa45a255d8b80b621fb3f30da139d53
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=9461fd446b5a15120aaad0976ec20e1a8b724212
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=a.saracino@fondazionegolinelli.it
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

@@ -1,0 +1,2 @@
+{Mesa/NV134/4.3 (Core Profile) Mesa 23.2.1}=SUPPORTED
+{NVIDIA Corporation/NVIDIA GeForce GTX 1070 with Max-Q Design/PCIe/SSE2/4.6.0 NVIDIA 535.129.03}=SUPPORTED

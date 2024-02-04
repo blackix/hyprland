@@ -1,0 +1,27 @@
+[Data Source]
+DisplayName=a.saracino@fondazionegolinelli.it
+Enabled=true
+Parent=675e5be5baa45a255d8b80b621fb3f30da139d53
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=a.saracino@fondazionegolinelli.it
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false
+DsnRetFull=false
+DsnNotifySuccess=true
+DsnNotifyFailure=true
+DsnNotifyDelay=true
