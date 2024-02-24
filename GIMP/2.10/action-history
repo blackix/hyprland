@@ -1,0 +1,9 @@
+# GIMP action-history
+
+(history-item "file-export-as" 5)
+(history-item "plug-in-zealouscrop" 0)
+(history-item "image-crop-to-selection" 0)
+(history-item "file-quit" 0)
+(history-item "file-create-template" 1)
+
+# end of action-history
